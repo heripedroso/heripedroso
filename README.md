@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi everyone, I'm Heriberto but you can call Heri 👋
 
- [youtube]: <img align="right" alt="GIF" src="https://github.com/heripedroso/heripedroso/blob/main/logo_principal.PNG?raw=true" width="254" height="221" />
+
+[<img align="right" alt="GIF" src="https://github.com/heripedroso/heripedroso/blob/main/logo_principal.PNG?raw=true" width="254" height="221" />][youtube] 
 
 
 ## I'm a Computing Engineer who enjoy coding a lot.
