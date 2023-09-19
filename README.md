@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## I'm a Computing Engineer who enjoy coding a lot.
 - 🔭 I'm currently working in a maternity hospital as an Systems Analyst.
-- 🌱 I’m currently learning HTML5, CSS3, JQuery, Bootstrap, Spring (Java) and Drupal 8.
+- 🌱 I’m currently learning Flutter, Angular e Spring (Java).
 - 🤔 I’m looking for help in best coding practices on OOP, DDD, TDD and whatever.
 - 💬 Ask me about anything. Sometimes I post some articles on my [blog][website].
 - 📫 How to reach me: [linkedin][linkedin] or [instagram][instagram]
